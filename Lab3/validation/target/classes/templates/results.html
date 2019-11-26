@@ -1,0 +1,15 @@
+<html>
+	<body>
+		<h1>Spring Boot File Upload Example</h1>
+		<hr/>
+		<h4>Upload Single File:</h4>
+		<form method="POST" action="/upload" enctype="multipart/form-data">
+		  <input type="file" name="file" multiple/> <br/><br/>
+		  <button type="submit">Submit</button>
+		</form>
+		<hr/>
+		<div th:if="${message}">
+		  <h2 th:text="${message}"/>
+		</div>
+	</body>
+</html>

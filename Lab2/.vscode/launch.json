@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProgramPokoj",
+            "request": "launch",
+            "mainClass": "program.ProgramPokoj",
+            "projectName": "Lab2_ad938ccf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProgramError",
+            "request": "launch",
+            "mainClass": "ProgramError",
+            "projectName": "Lab2_ad938ccf"
+        }
+    ]
+}

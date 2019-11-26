@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "validation.form.Application"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProgramError",
+            "request": "launch",
+            "mainClass": "ProgramError"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zad3",
+            "request": "launch",
+            "mainClass": "Zad3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zad2",
+            "request": "launch",
+            "mainClass": "Zad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zad1",
+            "request": "launch",
+            "mainClass": "Zad1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Zad4",
+            "request": "launch",
+            "mainClass": "Zad4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
+            "mainClass": "Program"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Numbers",
+            "request": "launch",
+            "mainClass": "Numbers"
+        }
+    ]
+}
